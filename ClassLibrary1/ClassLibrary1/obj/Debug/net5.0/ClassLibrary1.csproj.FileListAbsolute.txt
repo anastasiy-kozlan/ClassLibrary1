@@ -1,0 +1,36 @@
+Z:\К19-2\Козлан\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+Z:\К19-2\Козлан\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+Z:\К19-2\Козлан\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.dll
+Z:\К19-2\Козлан\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+Z:\К19-2\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csprojAssemblyReference.cache
+Z:\К19-2\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\К19-2\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+Z:\К19-2\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+Z:\К19-2\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+Z:\К19-2\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+Z:\К19-2\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
+Z:\К19-2\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
+E:\Козлан\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+E:\Козлан\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+E:\Козлан\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.dll
+E:\Козлан\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+E:\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csprojAssemblyReference.cache
+E:\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+E:\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+E:\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
+E:\Козлан\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
+D:\3курс\Інтернет речей\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+D:\3курс\Інтернет речей\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+D:\3курс\Інтернет речей\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.dll
+D:\3курс\Інтернет речей\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+D:\3курс\Інтернет речей\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csprojAssemblyReference.cache
+D:\3курс\Інтернет речей\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3курс\Інтернет речей\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\3курс\Інтернет речей\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+D:\3курс\Інтернет речей\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\3курс\Інтернет речей\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+D:\3курс\Інтернет речей\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
+D:\3курс\Інтернет речей\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
